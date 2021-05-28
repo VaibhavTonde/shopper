@@ -1,0 +1,4 @@
+{
+    "mongooseURI" : "mongodb+srv://VaibhavT:Mongodb123@cluster0.dgskx.mongodb.net/contact-manager?retryWrites=true&w=majority",
+    "jwtSecretKey" : "sEcReTkEy_001"
+}
